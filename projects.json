@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Shelf",
+    "href": "https://www.charlesgbrandon.com",
+    "imgURL": "./assets/img/cad/shelf.jpg",
+    "pngURLs": {
+      "large": "./assets/img/cad/shelf.jpg",
+      "medium": "./assets/img/cad/shelf.jpg",
+      "small": "./assets/img/cad/shelf.jpg"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/cad/shelf.jpg",
+      "medium": "./assets/img/cad/shelf.jpg",
+      "small": "./assets/img/cad/shelf.jpg"
+    },
+    "tech": ["AutoCAD", "3D Printing", "Drone"],
+    "colors": ["#EFD372", "#C2C2DD", "#026670"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Drone Snap Assembly",
+    "href": "https://www.charlesgbrandon.com",
+    "imgURL": "./assets/img/cad/snap-large.jpg",
+    "pngURLs": {
+      "large": "./assets/img/cad/snap-large.jpg",
+      "medium": "./assets/img/cad/snap-large.jpg",
+      "small": "./assets/img/cad/snap-large.jpg"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/cad/snap-large.jpg",
+      "medium": "./assets/img/cad/snap-large.jpg",
+      "small": "./assets/img/cad/snap-large.jpg"
+    },
+    "tech": ["AutoCAD", "3D Printing", "Drone"],
+    "colors": ["#EFD372", "#C2C2DD", "#026670"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "SFB Isolation - Exploded",
+    "href": "https://www.charlesgbrandon.com",
+    "imgURL": "./assets/img/cad/sfb-large.jpg",
+    "pngURLs": {
+      "large": "./assets/img/cad/sfb-large.jpg",
+      "medium": "./assets/img/cad/sfb-large.jpg",
+      "small": "./assets/img/cad/sfb-large.jpg"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/cad/sfb-large.jpg",
+      "medium": "./assets/img/cad/sfb-large.jpg",
+      "small": "./assets/img/cad/sfb-large.jpg"
+    },
+    "tech": ["React", "React-router", "Express", "Mongo DB", "Node JS"],
+    "colors": ["#EFD372", "#82b896", "#274C5B"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Rotor",
+    "href": "https://www.charlesgbrandon.com",
+    "imgURL": "./assets/img/cad/rotor.jpg",
+    "pngURLs": {
+      "large": "./assets/img/cad/rotor.jpg",
+      "medium": "./assets/img/cad/rotor.jpg",
+      "small": "./assets/img/cad/rotor.jpg"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/cad/rotor.jpg",
+      "medium": "./assets/img/cad/rotor.jpg",
+      "small": "./assets/img/cad/rotor.jpg"
+    },
+    "tech": ["React", "React-Bootstrap", "Express", "Mongo DB", "Node JS"],
+    "colors": ["#0A58CA", "#171717", "#FFFFFF"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Fixture Block",
+    "href": "https://www.charlesgbrandon.com",
+    "imgURL": "./assets/img/cad/fixtureblock.jpg",
+    "pngURLs": {
+      "large": "./assets/img/cad/fixtureblock.jpg",
+      "medium": "./assets/img/cad/fixtureblock.jpg",
+      "small": "./assets/img/cad/fixtureblock.jpg"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/cad/fixtureblock.jpg",
+      "medium": "./assets/img/cad/fixtureblock.jpg",
+      "small": "./assets/img/cad/fixtureblock.jpg"
+    },
+    "tech": ["React", "React-Bootstrap", "Express", "Mongo DB", "Node JS"],
+    "colors": ["#0A58CA", "#171717", "#FFFFFF"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Exploded View - Drone Design",
+    "href": "https://www.charlesgbrandon.com",
+    "imgURL": "./assets/img/cad/exploded.jpg",
+    "pngURLs": {
+      "large": "./assets/img/cad/explode.jpg",
+      "medium": "./assets/img/cad/explode.jpg",
+      "small": "./assets/img/cad/explode.jpg"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/cad/explode.jpg",
+      "medium": "./assets/img/cad/explode.jpg",
+      "small": "./assets/img/cad/explode.jpg"
+    },
+    "tech": ["React", "React-Bootstrap", "Express", "Mongo DB", "Node JS"],
+    "colors": ["#0A58CA", "#171717", "#FFFFFF"],
+    "type": "regular",
+    "isShown": true
+  },
+  {
+    "title": "Rotor - 2",
+    "href": "https://www.charlesgbrandon.com",
+    "imgURL": "./assets/img/cad/rot.jpg",
+    "pngURLs": {
+      "large": "./assets/img/cad/rot.jpg",
+      "medium": "./assets/img/cad/rot.jpg",
+      "small": "./assets/img/cad/rot.jpg"
+    },
+    "pngThumbURLs": {
+      "large": "./assets/img/cad/rot.jpg",
+      "medium": "./assets/img/cad/rot.jpg",
+      "small": "./assets/img/cad/rot.jpg"
+    },
+    "tech": ["React", "React-Bootstrap", "Express", "Mongo DB", "Node JS"],
+    "colors": ["#0A58CA", "#171717", "#FFFFFF"],
+    "type": "regular",
+    "isShown": true
+  }
+]
