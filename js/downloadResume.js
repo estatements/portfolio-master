@@ -7,7 +7,7 @@ document
     // Create a hidden anchor element to trigger the download
     const downloadLink = document.createElement("a");
     downloadLink.href = pdfFilePath;
-    downloadLink.download = "https://github.com/estatements/portfolio-master/assets/CV_charles.pdf";
+    downloadLink.download = "https://estatements.github.io/portfolio-master/assets/CV_charles.pdf";
 
     // Trigger the click event of the anchor element to start the download
     downloadLink.click();
