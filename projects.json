@@ -95,25 +95,6 @@
     "isShown": true
   },
   {
-    "title": "Exploded View",
-    "href": "https://www.charlesgbrandon.com",
-    "imgURL": "./assets/img/cad/explode.jpg",
-    "pngURLs": {
-      "large": "./assets/img/cad/explode.jpg",
-      "medium": "./assets/img/cad/explode.jpg",
-      "small": "./assets/img/cad/explode.jpg"
-    },
-    "pngThumbURLs": {
-      "large": "./assets/img/cad/explode.jpg",
-      "medium": "./assets/img/cad/explode.jpg",
-      "small": "./assets/img/cad/explode.jpg"
-    },
-    "tech": ["React", "React-Bootstrap", "Express", "Mongo DB", "Node JS"],
-    "colors": ["#0A58CA", "#171717", "#FFFFFF"],
-    "type": "regular",
-    "isShown": true
-  },
-  {
     "title": "Rotor - 2",
     "href": "https://www.charlesgbrandon.com",
     "imgURL": "./assets/img/cad/rot.jpg",
